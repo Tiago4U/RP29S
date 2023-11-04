@@ -1,0 +1,8 @@
+
+Foi desenvolvida uma lógica de repetição usando um loop while para criar a funcionalidade do jogo Pedra, Papel e Tesoura, onde o usuário tem o controle de decidir se deseja continuar jogando ou encerrar a partida. Além disso, realizamos a tradução completa das mensagens do jogo do inglês para o português. A implementação também incluiu algumas mensagens adicionais para tornar as diretrizes e informações do jogo mais claras e compreensíveis para o usuário, permitindo que o mesmo tome decisões informadas durante o jogo e saiba como interagir com a aplicação de maneira intuitiva.
+
+
+Emanuel Soares, RA: 2204606
+Tiago da Silva, RA: 2204797
+Cleverton Marcelo, RA: 2204541
+Renan Soares, RA: 2162202
